@@ -14,7 +14,7 @@ using namespace std;
 //Define a function that takes an integer number (n) as a parameter and prints the result of coin flips ("Heads" or "Tails" with equal probability) until there are n "Heads" in a row. Seed the randomizer in the main() function.
 void task1(int);
 //Define a function that takes an array of integers and a number as parameters and returns boolean true if the number provided is larger than every element of the array.
-bool task2(int[], int);
+bool task2(int[], int, int);
 //Define a function that takes an array of integers and its size as parameters and prints number of values below 75.
 int task3(int[], int);
 //Define a function that takes an array of integers and its size as parameters, finds the difference between 100 and the largest element of the array and adds this difference to every element in the array. Print the array before and after the function call. (Note: after this function call the largest value in the array must be 100.)

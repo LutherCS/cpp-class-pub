@@ -35,7 +35,7 @@ void task1(int n) {
     cout << "# Task1" << endl;
 }
 
-bool task2(int arr[], int size) {
+bool task2(int arr[], int size, int target) {
     cout << "# Task2" << endl;
     return true;
 }
