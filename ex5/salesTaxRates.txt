@@ -1,0 +1,51 @@
+AL|4|Alabama
+AK|0|Alaska
+AZ|6.6|Arizona
+AR|6|Arkansas
+CA|7.25|California
+CO|2.9|Colorado
+CT|6.35|Connecticut
+DE|0|Delaware
+DC|6|District of Columbia
+FL|6|Florida
+GA|4|Georgia
+HI|4|Hawaii 
+ID|6|Idaho
+IL|6.25|Illinois
+IN|7|Indiana
+IA|6|Iowa 
+KS|6.3|Kansas
+KY|6|Kentucky
+LA|4|Louisiana 
+ME|5|Maine
+MD|6|Maryland
+MA|6.25|Massachusetts
+MI|6|Michigan
+MN|6.88|Minnesota
+MS|7|Mississippi
+MO|4.23|Missouri
+MT|0|Montana
+NE|5.5|Nebraska
+NV|6.85|Nevada 
+NH|0|New Hampshire 
+NJ|7|New Jersey
+NM|5.13|New Mexico
+NY|4|New York
+NC|4.75|North Carolina
+ND|5|North Dakota
+OH|5.5|Ohio 
+OK|4.5|Oklahoma
+OR|0|Oregon 
+PA|6|Pennsylvania
+RI|7|Rhode Island
+SC|6|South Carolina
+SD|4|South Dakota
+TN|7|Tennessee
+TX|6.25|Texas
+UT|5.95|Utah 
+VT|6|Vermont
+VA|5|Virginia
+WA|6.5|Washington
+WV|6|West Virginia
+WI|5|Wisconsin
+WY|4|Wyoming
