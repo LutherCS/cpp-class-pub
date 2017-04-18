@@ -11,6 +11,9 @@
 
 using namespace std;
 
+#ifndef COMPUTERGAME_H
+#define COMPUTERGAME_H
+
 class ComputerGame {
     private:
         string title;
@@ -72,3 +75,5 @@ vector<ComputerGame> readFile(char* filename) {
 
     return result;
 }
+
+#endif
