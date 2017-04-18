@@ -17,7 +17,7 @@ void printNChars(ofstream &fout, char c, int n) {
 }
 
 void readStates(ifstream &fileIn, vector<State> &states) {
-    //TODO: Read the state code from user
+    //TODO: Read the states from the file into a vector
 }
 
 void readInventory(ifstream &fileIn, vector<Game> &inventory) {
