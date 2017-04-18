@@ -1,0 +1,158 @@
+
+Task 1: Book
+---
+Expected: Introduction to C++ by John Doe costs $89.99
+Observed: Introduction to C++ by John Doe costs $89.99
+---
+Expected: OOP with C++ by Jane Doe costs $59.99
+Observed: OOP with C++ by Jane Doe costs $59.99
+---
+
+Task 2: Room
+---
+Expected: Olin 202
+Observed: Olin 202
+---
+Expected: Main 123
+Observed: Main 123
+---
+
+Task 3: Employee
+---
+Expected: Alice Anderson earns $50000.00 and works full-time
+Observed: Alice Anderson earns $50000.00 and works full-time
+---
+Expected: Bob Black earns $30000.00 and works part-time
+Observed: Bob Black earns $30000.00 and works part-time
+---
+
+Task 4: Customer
+---
+Expected: Loan: $50000.00; Term: 36 months
+Observed: Loan: $50000.00; Term: 36 months
+---
+Expected: 50000.00
+Observed: 50000.00
+---
+Expected: 36
+Observed: 36
+---
+Expected: Loan: $20000.00; Term: 12 months
+Observed: Loan: $20000.00; Term: 12 months
+---
+Expected: 20000.00
+Observed: 20000.00
+---
+Expected: 12
+Observed: 12
+---
+
+Task 5: Game
+---
+Expected: The rating of FIFA 2017 is 8
+Observed: The rating of FIFA 2017 is 8
+---
+Expected: FIFA 2017
+Observed: FIFA 2017
+---
+Expected: 8
+Observed: 8
+---
+Expected: The rating of Thief is 10
+Observed: The rating of Thief is 10
+---
+Expected: Thief
+Observed: Thief
+---
+Expected: 10
+Observed: 10
+---
+
+Task 6: Song
+---
+Expected: Content of the top3.txt
+Observed: 
+Ed Sheeran|Shape Of You
+Kendrick Lamar|Humble.
+Bruno Mars|That's What I Like
+---
+Expected: Shape Of You by Ed Sheeran
+Observed: Shape Of You by Ed Sheeran
+---
+
+Task 7: Company
+---
+Expected: Apple's stock price is $141.03
+Observed: Apple's stock price is $141.03
+---
+Expected: 141.03
+Observed: 141.03
+---
+Expected: Apple's stock price is $141.18
+Observed: Apple's stock price is $141.18
+---
+Expected: Google's stock price is $840.00
+Observed: Google's stock price is $840.00
+---
+Expected: 840.00
+Observed: 840.00
+---
+Expected: Google's stock price is $850.48
+Observed: Google's stock price is $850.48
+---
+
+Task 8: College
+---
+Expected: Luther College is ranked #2
+Observed: Luther College is ranked #2
+---
+Expected: Luther College is ranked #1
+Observed: Luther College is ranked #1
+---
+Expected: Iowa State is ranked #50
+Observed: Iowa State is ranked #50
+---
+Expected: Iowa State is ranked #10
+Observed: Iowa State is ranked #10
+---
+
+Task 9: Laptop
+---
+Expected: Black laptop by IBM costs $800.00
+Observed: Black laptop by IBM costs $800.00
+---
+Expected: IBM
+Observed: IBM
+---
+Expected: 800.00
+Observed: 800.00
+---
+Expected: Black
+Observed: Black
+---
+Expected: Gray laptop by Lenovo costs $600.00
+Observed: Gray laptop by Lenovo costs $600.00
+---
+Expected: Red Laptop by Dell costs $1200.00
+Observed: Red laptop by Dell costs $1200.00
+---
+
+Task 10: Roster
+---
+Expected: Alice (3.00) majors in Anthropology
+Observed: Alice (3.00) majors in Anthropology
+---
+Expected: Roster based on the content of the roster.txt
+Observed: Alice (3.00) majors in Anthropology
+Bob (3.20) majors in Biology
+Chuck (3.50) majors in Computers
+Dave (2.50) majors in Dance
+Eve (2.50) majors in Environment
+Fred (3.20) majors in French
+George (2.00) majors in German
+Hillary (2.80) majors in History
+Arnold (3.30) majors in Accounting
+Celia (3.50) majors in Chemistry
+Meredith (3.10) majors in Math
+Ethel (3.80) majors in English
+---
