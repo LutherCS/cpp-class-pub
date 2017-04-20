@@ -56,7 +56,7 @@ ostream& operator<<(ostream& os, const ComputerGame& cg) {
 }
 
 vector<ComputerGame> readFile(char* filename) {
-    vector<ComputerGame > result;
+    vector<ComputerGame> result;
     ifstream fin(filename);
     if (!fin.is_open()) {
         cerr << "ERROR: Could not open " << filename << endl;
