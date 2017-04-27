@@ -8,12 +8,12 @@ class Book: public LibraryItem {
     private:
         string author;
     public:
-        Book(string title_, string author_) : LibraryItem(title_), author(author_) { };
+        Book(string title_, string author_);
 
         string getAuthor() const { return author; }
         void setAuthor(string author_) { author = author_; }
 
-        virtual string print() const { return title + " by " + author; };
+        string print() const;
 };
 
 #endif

@@ -8,12 +8,12 @@ class VideoDisc: public Disc {
     private:
         string director;
     public:
-        VideoDisc(string title_, string type_, string director_) : Disc(title_, type_), director(director_) { };
+        VideoDisc(string title_, string type_, string director_);
 
         string getDirector() const { return director; }
         void setDirector(string director_) { director = director_; }
 
-        virtual string print() { return Disc::print() + " by " + director; }
+        string print() const;
 };
 
 #endif

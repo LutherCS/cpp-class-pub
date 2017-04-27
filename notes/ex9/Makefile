@@ -2,7 +2,7 @@
 CC=g++
 CFLAGS=-c -Wall -std=c++14
 LDFLAGS=
-SOURCES=exercise9.cpp LibraryItem.h Book.h Disc.h AudioDisc.h VideoDisc.h
+SOURCES=exercise9.cpp LibraryItem.cpp Book.cpp Disc.cpp AudioDisc.cpp VideoDisc.cpp
 OBJECTS=$(SOURCES:.cpp=.o)
 EXECUTABLE=exercise9
 

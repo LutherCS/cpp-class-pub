@@ -7,7 +7,7 @@ class LibraryItem {
     protected:
         string title;
     public:
-        LibraryItem(string title_) { title = title_; }
+        LibraryItem(string title_);
 
         string getTitle() const { return title; }
         void setTitle(string title_) { title = title_; }

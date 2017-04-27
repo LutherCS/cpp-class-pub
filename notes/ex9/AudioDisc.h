@@ -8,12 +8,12 @@ class AudioDisc: public Disc {
     private:
         string artist;
     public:
-        AudioDisc(string title_, string type_, string artist_) : Disc(title_, type_), artist(artist_) { };
+        AudioDisc(string title_, string type_, string artist_);
 
         string getArtist() const { return artist; }
         void setArtist(string artist_) { artist = artist_; }
 
-        virtual string print() { return Disc::print() + " by " + artist; }
+        string print() const;
 };
 
 #endif
