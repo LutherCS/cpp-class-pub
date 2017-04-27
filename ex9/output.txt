@@ -1,0 +1,26 @@
+10yo Parrot Alice says I want a cracker and flies back to Tropics
+15yo Parrot Bob says ARGHHH! and flies back to Tropics
+10yo Penguin Charlie says Heyyy and swims back to Antarctica
+15yo Penguin Dave says Heyyy and walks back to Antarctica
+10yo Dog Eve says Woof and runs back to Prairie
+15yo Dog Fred says Woof and runs back to City
+10yo BobCat George says Meow and runs back to Forest
+15yo BobCat Helen says Meow and runs back to Forest
+10yo HouseCat Ivan says Meow and runs back to House
+15yo HouseCat Jenny says Meow and runs back to House
+---
+10yo Parrot Kind Killer says I want a cracker and flies back to Tropics to lay 1 egg
+20yo Parrot Lazy Larry says ARGHHH! and flies back to Tropics to lay 2 eggs
+---
+30yo Penguin Missing Muscle says Heyyy and swims back to Antarctica to lay 1 egg
+40yo Penguin Noisy Night says Heyyy and walks back to Antarctica to lay 1 egg
+---
+50yo Dog Outgoing Oak says Woof and runs back to House to eat meat
+60yo Dog Philosophical Psychic says Woof and runs back to Kennel to eat meat
+---
+70yo BobCat Quintessential Quitter says Meow and runs back to Forest to eat meat
+80yo BobCat Romantic Reaper says Meow and runs back to Forest to eat meat
+---
+90yo HouseCat Silent Syndrome says Meow and runs back to House to eat meat
+99yo HouseCat Tropical Thunder says Meow and runs back to House to eat grass
+---
