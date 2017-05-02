@@ -1,0 +1,54 @@
+Queue of i created
+Initial queue: 
+Queue size: 0
+Added 1
+Current queue: 1 
+Queue size: 1
+Added 2
+Current queue: 1 2 
+Queue size: 2
+Added 3
+Current queue: 1 2 3 
+Queue size: 3
+Added 4
+Current queue: 1 2 3 4 
+Queue size: 4
+---
+Removed 1
+Current queue: 2 3 4 
+Queue size: 3
+Removed 2
+Current queue: 3 4 
+Queue size: 2
+Removed 3
+Current queue: 4 
+Queue size: 1
+Removed 4
+Current queue: 
+Queue size: 0
+ERROR: The queue is empty
+---
+Queue of c created
+Initial queue: 
+Queue size: 0
+Added a
+Current queue: a 
+Queue size: 1
+Added b
+Current queue: a b 
+Queue size: 2
+Added c
+Current queue: a b c 
+Queue size: 3
+---
+Removed a
+Current queue: b c 
+Queue size: 2
+Removed b
+Current queue: c 
+Queue size: 1
+Removed c
+Current queue: 
+Queue size: 0
+ERROR: The queue is empty
+---
