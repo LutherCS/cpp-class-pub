@@ -1,3 +1,7 @@
+# Configuration files
+.vscode/
+.mypy_cache/
+
 # Prerequisites
 *.d
 
@@ -15,10 +19,6 @@
 *.so
 *.dylib
 *.dll
-
-# Fortran module files
-*.mod
-*.smod
 
 # Compiled Static libraries
 *.lai
