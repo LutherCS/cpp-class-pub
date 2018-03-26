@@ -1,7 +1,0 @@
-CS-130-B|Fund of Web Programming|10/18/2017-12/08/2017|B. Miller|2.00
-CS-252-A|Object-Oriented Prog With Java|10/18/2017-12/14/2017|R. Yasinovskyy|2.00
-CS-260-A|Computational Models|08/30/2017-12/14/2017|K. Lee|4.00
-CS-360-A|Adv Algorithms and Data Struct|08/30/2017-12/14/2017|K. Lee|4.00
-CS-380-B|Internship|08/30/2017-12/14/2017|B. Miller|1.00
-DS-320-A|Data Analysis & Visualization|08/30/2017-12/14/2017|B. Miller|4.00
-MATH-123-B|Mathematic for El School Teach|08/30/2017-12/14/2017|C. Wangsness|4.00
