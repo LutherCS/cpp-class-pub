@@ -18,6 +18,7 @@ main: $(SOURCES) $(PROJECT)
 # Make (link) an executable
 # Must have objects
 $(PROJECT): $(OBJECTS)
+	mkdir -p $(BUILD_DIR)
 	$(CC) $(LDFLAGS) $(OBJECTS) -o $(BUILD_DIR)/$@.out
 
 # Make (compile) an object
