@@ -14,24 +14,47 @@ void task2() {
 //Ask a user to enter their full name and print the initials (ie. John Doe should yield JD)
 void task3() {
     string firstName, lastName;
-    cout << "What is your full name fella?" << endl;
-    cin >> firstName >> lastName;
+    cout << "What is your first name fella?" << endl;
+    cin >> firstName;
+    cout << "What is your last name fella?" << endl;
+    cin >> lastName;
     cout << "Hello " << firstName[0] << lastName[0] << endl;}
 //Ask a user to enter their age and print "Minor" (if age is less than 21) or "Major" (if age is 21+)
 void task4() {
-    //TODO: Implement task4
+    int age;
+    cout << "What is your age?" << endl;
+    cin >> age;
+    if (age < 21){
+        cout << "Minor" << endl;
+    } else{
+        cout << "Major" << endl;
+    }
 }
 //Generate a random number, print it, and print whether it's odd or even
 void task5() {
-    //TODO: Implement task5
+    int num;
+    num = rand();
+    string oddEven;
+    if (num % 2 == 0){
+        oddEven = "even";
+    } else{
+        oddEven = "odd";
+    }
+    cout << "The number " << num << " is clearly " << oddEven << endl;
 }
 //Print all numbers between 1 and 20 (inclusive).
 void task6() {
-    //TODO: Implement task6
+    for (int i = 1; i <= 20; i++){
+        cout << i << endl;
+    }
 }
 //Calculate and print sum of all numbers between 1 and 100 (inclusive).
 void task7() {
-    //TODO: Implement task7
+    int sum = 0;
+    for (int i = 1; i <= 100; i++){
+        sum += i;
+    }
+    cout << sum << endl;
 }
 //Calculate and print sum of all multiples of 253 between 1 and 2018 (inclusive).
 void task8() {
@@ -45,9 +68,26 @@ void task8() {
 }
 //Calculate and print sum and product of all numbers between 1 and 20 (inclusive). Hint: use a proper data type to hold a very large value of the product. 
 void task9() {
-    //TODO: Implement task9
+    int sum = 0;
+    long product = 1;
+    for (int i = 1; i <= 20; i++){
+        sum += i;
+        product = product * i;
+    }
+    cout << "Sum: " << sum << endl;
+    cout << "Product: " << product << endl;
 }
 //Print all numbers between 1 and 100 (inclusive) replacing all multiples of 3 with "fuzz", multiples of 5 with "buzz", multiples of 3 and 5 with "zzz".
 void task10() {
-    //TODO: Implement task10
+    for (int i = 1; i <= 100; i++){
+        if (i % 15 == 0){
+            cout << "zzz" << endl;
+        } else if (i % 3 == 0){
+            cout << "fuzz" << endl;
+        } else if (i % 5 == 0){
+            cout << "buzz" << endl;
+        } else{
+            cout << i << endl;
+        }
+    }
 }
