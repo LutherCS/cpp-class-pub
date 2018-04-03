@@ -1,0 +1,32 @@
+# Task1
+Hello World
+# Task2
+Enter your first name
+Hello Roman
+# Task3
+Enter your full name
+Your initials are RY
+# Task4
+Enter your age
+Major
+# Task5
+2014289825 is odd
+# Task6
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+# Task7
+Sum of all numbers between 1 and 100 is 5050
+# Task8
+Sum of all multiples of 253 between 1 and 2018 is 7084
+# Task9
+Product of all numbers between 1 and 20 is 2432902008176640000
+# Task10
+    1    2 fuzz    4 buzz fuzz    7    8 fuzz buzz
+   11 fuzz   13   14  zzz   16   17 fuzz   19 buzz
+ fuzz   22   23 fuzz buzz   26 fuzz   28   29  zzz
+   31   32 fuzz   34 buzz fuzz   37   38 fuzz buzz
+   41 fuzz   43   44  zzz   46   47 fuzz   49 buzz
+ fuzz   52   53 fuzz buzz   56 fuzz   58   59  zzz
+   61   62 fuzz   64 buzz fuzz   67   68 fuzz buzz
+   71 fuzz   73   74  zzz   76   77 fuzz   79 buzz
+ fuzz   82   83 fuzz buzz   86 fuzz   88   89  zzz
+   91   92 fuzz   94 buzz fuzz   97   98 fuzz buzz
