@@ -5,15 +5,37 @@
 
 ## How do I get set up?
 1. Download and install [Visual Studio Code](https://code.visualstudio.com/download)
-1. Install the following VS Code extensions:
-    * [C/C++](https://code.visualstudio.com/docs/languages/cpp)
-    * [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+1. Install the [C/C++](https://code.visualstudio.com/docs/languages/cpp) VS Code extension
+1. *Optional*: Install [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) VS Code extension
 1. *Optional*: Install clang: `sudo apt install clang` and [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang)
 1. *Optional*: Configure the C/C++ extension to allow quick suggestions
 1. Make sure you have a good grasp of basic software development tools and Linux commands
-1. Clone the repository and start writing code.
+1. Download the latest version of [Catch2 test framework](https://github.com/catchorg/Catch2)
+    * `wget https://github.com/catchorg/Catch2/releases/download/v2.2.1/catch.hpp`
+1. Copy the downloaded file to the system library
+    * `cp catch.hpp /usr/include/`
+1. Create a new private repository on GitHub
+1. [Duplicate](https://help.github.com/articles/duplicating-a-repository/) **this** repository
+    * Configure my repo as [upstream](https://help.github.com/articles/configuring-a-remote-for-a-fork/), so you could pull updates from me
+1. Invite me as a collaborator to your private repo
+1. Start working on an assignment
+    1. Pull all branches from the **course repository** (*upstream*)
+    1. Checkout a specific branch (*exercise0*, *exercise1*, etc)
+    1. Complete an assignment (produce the expected output and/or pass the provided tests)
+    1. Commit changes
+    1. Push code to **your repository** (*origin*)
 
 ## References
+
+### Development environment
+
+* [C++ programming with Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp)
+
+* [Makefiles – Mrbook's Stuff](http://mrbook.org/blog/tutorials/make/)
+
+* [Catch2/tutorial.md at master · catchorg/Catch2](https://github.com/catchorg/Catch2/blob/master/docs/tutorial.md)
+
+* [Testing C++ With A New Catch - Coldflake Blog](http://blog.coldflake.com/posts/Testing-C++-with-a-new-Catch/)
 
 ### Basic syntax
 
