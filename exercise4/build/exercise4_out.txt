@@ -1,0 +1,16 @@
+# Matrix multiplication exercise
+Reading a matrix from data/exercise4_in_m1.txt
+This is a 2x4 matrix
+  1  8  6  1
+  2  0  1  8
+Reading a matrix from data/exercise4_in_m2.txt
+This is a 4x1 matrix
+  0
+  2
+  5
+  3
+Multiplying matrices
+This is a 2x1 matrix
+ 49
+ 29
+Writing a matrix to build/exercise4_out_m3.txt
