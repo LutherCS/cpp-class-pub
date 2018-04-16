@@ -24,6 +24,7 @@ int main() {
     cout << "Integer\n";
     cout << setw(20) << "type(x)" << typeid(x).name() << endl;
     cout << setw(20) << "x" << x << endl;
+    cout << setw(20) << "&x" << &x << endl;
     cout << endl;
     cout << "Pointer to an Integer\n";
     cout << setw(20) << "type(ptrInt)" << typeid(ptrInt).name() << endl;
