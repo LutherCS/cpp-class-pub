@@ -1,0 +1,70 @@
+Reading state information
+Read 51 state(s) from the file
+Read 11 games(s) from the file
+------------------------------------------------------------------------
+#    Title               Publisher           Platform  Released  Price    
+------------------------------------------------------------------------
+1    Battlefield 4       Electronic Arts     PS4       2013      $ 18.32
+2    Call of Duty        Square Enix         PS3       2007      $ 10.00
+3    Call of Duty        Sledgehammer        PS2       2003      $  1.99
+4    Delta Force         Novalogic           Xbox      1999      $  2.99
+5    DOTA                Imagin              PS3       2014      $ 20.00
+6    FIFA 15             Animat              PS3       2015      $ 50.00
+7    Gears of War        Microsoft           PC        2006      $  5.99
+8    Grand Theft Auto V  Rockstar            Wii       2012      $ 10.00
+9    Grand Theft Auto V  Rockstar            PS4       2013      $ 22.88
+10   Just Cause 2        Square Enix         PS3       2010      $ 23.50
+11   PES 2013            Konami              PC        2012      $ 39.99
+------------------------------------------------------------------------
+Please enter a number between 1 and 11
+hello
+Please enter a number between 1 and 11
+1000000
+Please enter a number between 1 and 11
+1
+How many copies of the Battlefield 4 do you want to buy?
+Please enter a number between 0 and 32767
+hello
+Please enter a number between 0 and 32767
+1000000
+Please enter a number between 0 and 32767
+1
+Would you like to buy another game (y/n)?
+y
+------------------------------------------------------------------------
+#    Title               Publisher           Platform  Released  Price    
+------------------------------------------------------------------------
+1    Battlefield 4       Electronic Arts     PS4       2013      $ 18.32
+2    Call of Duty        Square Enix         PS3       2007      $ 10.00
+3    Call of Duty        Sledgehammer        PS2       2003      $  1.99
+4    Delta Force         Novalogic           Xbox      1999      $  2.99
+5    DOTA                Imagin              PS3       2014      $ 20.00
+6    FIFA 15             Animat              PS3       2015      $ 50.00
+7    Gears of War        Microsoft           PC        2006      $  5.99
+8    Grand Theft Auto V  Rockstar            Wii       2012      $ 10.00
+9    Grand Theft Auto V  Rockstar            PS4       2013      $ 22.88
+10   Just Cause 2        Square Enix         PS3       2010      $ 23.50
+11   PES 2013            Konami              PC        2012      $ 39.99
+------------------------------------------------------------------------
+Please enter a number between 1 and 11
+11
+How many copies of the PES 2013 do you want to buy?
+Please enter a number between 0 and 32767
+1
+Would you like to buy another game (y/n)?
+n
+Please enter your state's two-letter code
+hello
+Please enter your state's two-letter code
+IA
+Sales tax in Iowa  is 6.00%
+Your cart
+--------------------------------------------------
+Title               Platform  Price    Quantity 
+--------------------------------------------------
+Battlefield 4       PS4       $ 18.32         1
+PES 2013            PC        $ 39.99         1
+--------------------------------------------------
+Total:                              $     58.31
+Taxes:                              $      3.50
+Owned:                              $     61.81
