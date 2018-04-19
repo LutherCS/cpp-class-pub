@@ -1,6 +1,29 @@
 #include "basics.hpp"
 
+int readANumber(int lower_bound, int upper_bound) {
+    int result = lower_bound - 1;
+    do {
+        cout << "please enter a number between " << lower_bound << " and " << upper_bound << endl;
+        cin >> result;
+        if (cin.fail()) {
+            cin.clear();
+            cin.ignore(__INT_MAX__, '\n');
+            result = lower_bound - 1;
+        }
+
+        cout << "Try again" << endl;
+    } while (result < lower_bound || result > upper_bound);
+    cin.clear();
+    cin.ignore(__INT_MAX__, '\n');
+
+    return result;
+}
+
 int main() {
+    int answer = readANumber(1, 10);
+    cout << "You entered " << answer << endl;
+    exit(1);
+
     int a = 253;
     cout << a << endl;
     cout << a / 2 << endl;
