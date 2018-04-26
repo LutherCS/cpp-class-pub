@@ -1,0 +1,12 @@
+Alice,Anthropology,3.0
+Bob,Biology,3.2
+Chuck,Computers,3.5
+Dave,Dance,2.5
+Eve,Environment,2.5
+Fred,French,3.2
+George,German,2.0
+Hillary,History,2.8
+Arnold,Accounting,3.3
+Celia,Chemistry,3.5
+Meredith,Math,3.1
+Ethel,English,3.8,
