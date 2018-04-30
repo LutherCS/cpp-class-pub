@@ -9,4 +9,4 @@ Hillary,History,2.8
 Arnold,Accounting,3.3
 Celia,Chemistry,3.5
 Meredith,Math,3.1
-Ethel,English,3.8,
+Ethel,English,3.8
