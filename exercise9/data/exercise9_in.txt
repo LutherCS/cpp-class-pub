@@ -1,0 +1,8 @@
+Alice,Admissions,40000
+Bob,Admissions,15,40
+Charlie,Bakery,20.5,40
+Diana,Bakery,55000
+Eve,Counseling,50000
+Fred,Counseling,50,40
+George,Dining,11.25,50
+Hillary,Dining,30000
