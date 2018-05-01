@@ -1,5 +1,5 @@
 # Parameters to control Makefile operation
-PROJECT=exercise8
+PROJECT=exercise9
 CC=g++
 CFLAGS=-c -Wall -std=c++14
 LDFLAGS=
