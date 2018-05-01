@@ -1,4 +1,3 @@
-#include "exercise9.hpp"
 #include "Employee.hpp"
 
 #ifndef HOURLYEMPLOYEE_H
