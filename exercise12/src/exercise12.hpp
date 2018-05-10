@@ -10,6 +10,24 @@
 
 using namespace std;
 
-/* Declare all functions here */
+// Declare a function that uses an array.
+
+// Declare a function that uses a vector.
+
+// Declare a function that uses a deque.
+
+// Declare a function that uses a list.
+
+// Declare a function that uses a stack.
+
+// Declare a function that uses a queue.
+
+// Declare a function that uses a priority_queue.
+
+// Declare a function that uses a set.
+
+// Declare a function that uses a map.
+
+// Declare a function that uses any other container.
 
 #endif
