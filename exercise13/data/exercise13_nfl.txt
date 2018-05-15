@@ -1,0 +1,53 @@
+Year	Winner	Result	Runner-up
+1967	Green Bay Packers	35-10	Kansas City Chiefs
+1968	Green Bay Packers	33-14	Oakland Raiders
+1969	New York Jets	16-7	Baltimore Colts
+1970	Kansas City Chiefs	23-7	Minnesota Vikings
+1971	Baltimore Colts	16-13	Dallas Cowboys
+1972	Dallas Cowboys	24-3	Miami Dolphins
+1973	Miami Dolphins	14-7	Washington Redskins
+1974	Miami Dolphins	24-7	Minnesota Vikings
+1975	Pittsburgh Steelers	16-6	Minnesota Vikings
+1976	Pittsburgh Steelers	21-17	Dallas Cowboys
+1977	Oakland Raiders	32-14	Minnesota Vikings
+1978	Dallas Cowboys	27-10	Denver Broncos
+1979	Pittsburgh Steelers	35-31	Dallas Cowboys
+1980	Pittsburgh Steelers	31-19	Los Angeles Rams
+1981	Oakland Raiders	27-10	Philadelphia Eagles
+1982	San Francisco 49ers	26-21	Cincinnati Bengals
+1983	Washington Redskins	27-17	Miami Dolphins
+1984	Los Angeles Raiders	38-9	Washington Redskins
+1985	San Francisco 49ers	38-16	Miami Dolphins
+1986	Chicago Bears	46-10	New England Patriots
+1987	New York Giants	39-20	Denver Broncos
+1988	Washington Redskins	42-10	Denver Broncos
+1989	San Francisco 49ers	20-16	Cincinnati Bengals
+1990	San Francisco 49ers	55-10	Denver Broncos
+1991	New York Giants	20-19	Buffalo Bills
+1992	Washington Redskins	37-24	Buffalo Bills
+1993	Dallas Cowboys	52-17	Buffalo Bills
+1994	Dallas Cowboys	30-13	Buffalo Bills
+1995	San Francisco 49ers	49-26	San Diego Chargers
+1996	Dallas Cowboys	27-17	Pittsburgh Steelers
+1997	Green Bay Packers	35-21	New England Patriots
+1998	Denver Broncos	31-24	Green Bay Packers
+1999	Denver Broncos	34-19	Atlanta Falcons
+2000	St. Louis Rams	23-16	Tennessee Titans
+2001	Baltimore Ravens	34-7	New York Giants
+2002	New England Patriots	20-17	St. Louis Rams
+2003	Tampa Bay Buccaneers	48-21	Oakland Raiders
+2004	New England Patriots	32-29	Carolina Panthers
+2005	New England Patriots	24-21	Philadelphia Eagles
+2006	Pittsburgh Steelers	21-10	Seattle Seahawks
+2007	Indianapolis Colts	29-17	Chicago Bears
+2008	New York Giants	17-14	New England Patriots
+2009	Pittsburgh Steelers	27-23	Arizona Cardinals
+2010	New Orleans Saints	31-17	Indianapolis Colts
+2011	Green Bay Packers	31-25	Pittsburgh Steelers
+2012	New York Giants	21-17	New England Patriots
+2013	Baltimore Ravens	34-31	San Francisco 49ers
+2014	Seattle Seahawks	43-8	Denver Broncos
+2015	New England Patriots	28-24	Seattle Seahawks
+2016	Denver Broncos	24-10	Carolina Panthers
+2017	New England Patriots	34-28	Atlanta Falcons
+2018	Philadelphia Eagles	41-33	New England Patriots

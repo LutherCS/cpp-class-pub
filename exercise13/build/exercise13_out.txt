@@ -1,0 +1,55 @@
+---MLB---
+Most appearances:             New York Yankees              40        
+Fewest appearances:           Anaheim Angels                1         
+Most wins:                    New York Yankees              27        
+Fewest wins:                  Colorado Rockies              0         
+Most losses:                  New York Yankees              13        
+Fewest Losses                 Anaheim Angels                0         
+Sequential appearances        New York Yankees              5         
+Sequential winnings           New York Yankees              5         
+Sequential losses             New York Giants               3         
+Second best                   St. Louis Cardinals           11        
+---MLS---
+Most appearances:             Los Angeles Galaxy            9         
+Fewest appearances:           FC Dallas                     1         
+Most wins:                    Los Angeles Galaxy            5         
+Fewest wins:                  FC Dallas                     0         
+Most losses:                  New England Revolution        5         
+Fewest Losses                 Portland Timbers              0         
+Sequential appearances        D.C. United                   4         
+Sequential winnings           Los Angeles Galaxy            2         
+Sequential losses             New England Revolution        3         
+Second best                   D.C. United                   4         
+---NBA---
+Most appearances:             Los Angeles Lakers            25        
+Fewest appearances:           Baltimore Bullets             1         
+Most wins:                    Boston Celtics                17        
+Fewest wins:                  Baltimore Bullets             0         
+Most losses:                  Los Angeles Lakers            14        
+Fewest Losses                 Philadelphia Warriors         0         
+Sequential appearances        Boston Celtics                10        
+Sequential winnings           Boston Celtics                8         
+Sequential losses             Los Angeles Lakers            3         
+Second best                   Los Angeles Lakers            11        
+---NFL---
+Most appearances:             New England Patriots          10        
+Fewest appearances:           Arizona Cardinals             1         
+Most wins:                    Pittsburgh Steelers           6         
+Fewest wins:                  Arizona Cardinals             0         
+Most losses:                  New England Patriots          5         
+Fewest Losses                 Los Angeles Raiders           0         
+Sequential appearances        Buffalo Bills                 4         
+Sequential winnings           Pittsburgh Steelers           2         
+Sequential losses             Buffalo Bills                 4         
+Second best                   New England Patriots          5         
+---NHL---
+Most appearances:             Montreal Canadiens            29        
+Fewest appearances:           Anaheim Ducks                 1         
+Most wins:                    Montreal Canadiens            22        
+Fewest wins:                  Florida Panthers              0         
+Most losses:                  Detroit Red Wings             13        
+Fewest Losses                 Anaheim Ducks                 0         
+Sequential appearances        Montreal Canadiens            10        
+Sequential winnings           Montreal Canadiens            5         
+Sequential losses             Toronto Maple Leafs           3         
+Second best                   Detroit Red Wings             11        
