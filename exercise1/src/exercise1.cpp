@@ -32,7 +32,7 @@ void task7() {
 void task8() {
     //TODO: Implement task8
 }
-//Calculate and print sum and product of all numbers between 1 and 20 (inclusive). Hint: use a proper data type to hold a very large value of the product. 
+//Calculate and print product of all numbers between 1 and 20 (inclusive). Hint: use a proper data type to hold a very large value of the product. 
 void task9() {
     //TODO: Implement task9
 }

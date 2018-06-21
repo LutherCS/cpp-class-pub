@@ -10,7 +10,7 @@ SOURCES=$(SRC_DIR)/$(PROJECT)_main.cpp $(SRC_DIR)/$(PROJECT).cpp
 OBJECTS=$(SOURCES:.cpp=.o)
 
 # Default
-all: main
+all: main test_exec
 
 # Make (link) an executable
 main: $(SOURCES) $(PROJECT)

@@ -2,15 +2,18 @@
 Hello World
 # Task2
 Enter your first name
+Roman
 Hello Roman
 # Task3
 Enter your full name
+Roman Yasinovskyy
 Your initials are RY
 # Task4
 Enter your age
+22
 Major
 # Task5
-2014289825 is odd
+1804289383 is odd
 # Task6
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
 # Task7
