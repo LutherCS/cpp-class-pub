@@ -1,0 +1,52 @@
+Exercise 5: Structures
+
+Task 1
+Alice: 563-555-1234
+Roman: 563-387-1171
+
+Task 2
+Main 101
+Olin 202
+
+Task 3
+Alice Anderson is a full time employee earning 100000.00
+Bob Black is a part time employee earning 50000.00
+
+Task 4
+Hungry animal weights 321.00
+Well-fed animal weights 498.00
+
+Task 5
+The Legend of Zelda: Breath of the Wild has a rating of 9
+Resident Evil 7: Biohazard has a rating of 8
+The Legend of Zelda: Breath of the Wild has a rating of 10
+Resident Evil 7: Biohazard has a rating of 7
+
+Task 6
+Perfect by Ed Sheeran
+Finesse by Bruno Mars & Cardi B
+Pray For Me by The Weeknd & Kendrick Lamar
+
+Task 7
+Apple stock price: 177.97
+Apple stock price: 180.00
+
+Task 8
+ laptop by  costs 0.00
+Silver laptop by Apple costs 1499.99
+ laptop by  costs 0.00
+Red laptop by Dell costs 499.99
+
+Task 9
+ has a rating of -272621576
+Luther College has a rating of 100
+
+Task 10
+Alice     Anthropology   3.00
+Bob       Biology        3.20
+Chuck     Computers      3.50
+Dave      Dance          2.50
+Eve       Environment    2.50
+Fred      French         3.20
+George    German         2.00
+Hillary   History        2.80
