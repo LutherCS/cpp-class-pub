@@ -1,0 +1,91 @@
+Year	Winner	Result	Runner-up
+1927	Ottawa Senators	2-0	Boston Bruins
+1928	New York Rangers	3-2	Montreal Maroons
+1929	Boston Bruins	2-0	New York Rangers
+1930	Montreal Canadiens	2-0	Boston Bruins
+1931	Montreal Canadiens	3-2	Chicago Black Hawks
+1932	Toronto Maple Leafs	3-0	New York Rangers
+1933	New York Rangers	3-1	Toronto Maple Leafs
+1934	Chicago Black Hawks	3-1	Detroit Red Wings
+1935	Montreal Maroons	3-0	Toronto Maple Leafs
+1936	Detroit Red Wings	3-1	Toronto Maple Leafs
+1937	Detroit Red Wings	3-2	New York Rangers
+1938	Chicago Black Hawks	3-1	Toronto Maple Leafs
+1939	Boston Bruins	4-1	Toronto Maple Leafs
+1940	New York Rangers	4-2	Toronto Maple Leafs
+1941	Boston Bruins	4-0	Detroit Red Wings
+1942	Toronto Maple Leafs	4-3	Detroit Red Wings
+1943	Detroit Red Wings	4-0	Boston Bruins
+1944	Montreal Canadiens	4-0	Chicago Black Hawks
+1945	Toronto Maple Leafs	4-3	Detroit Red Wings
+1946	Montreal Canadiens	4-1	Boston Bruins
+1947	Toronto Maple Leafs	4-2	Montreal Canadiens
+1948	Toronto Maple Leafs	4-0	Detroit Red Wings
+1949	Toronto Maple Leafs	4-0	Detroit Red Wings
+1950	Detroit Red Wings	4-3	New York Rangers
+1951	Toronto Maple Leafs	4-1	Montreal Canadiens
+1952	Detroit Red Wings	4-0	Montreal Canadiens
+1953	Montreal Canadiens	4-1	Boston Bruins
+1954	Detroit Red Wings	4-3	Montreal Canadiens
+1955	Detroit Red Wings	4-3	Montreal Canadiens
+1956	Montreal Canadiens	4-1	Detroit Red Wings
+1957	Montreal Canadiens	4-1	Boston Bruins
+1958	Montreal Canadiens	4-2	Boston Bruins
+1959	Montreal Canadiens	4-1	Toronto Maple Leafs
+1960	Montreal Canadiens	4-0	Toronto Maple Leafs
+1961	Chicago Black Hawks	4-2	Detroit Red Wings
+1962	Toronto Maple Leafs	4-2	Chicago Black Hawks
+1963	Toronto Maple Leafs	4-1	Detroit Red Wings
+1964	Toronto Maple Leafs	4-3	Detroit Red Wings
+1965	Montreal Canadiens	4-3	Chicago Black Hawks
+1966	Montreal Canadiens	4-2	Detroit Red Wings
+1967	Toronto Maple Leafs	4-2	Montreal Canadiens
+1968	Montreal Canadiens	4-0	St. Louis Blues
+1969	Montreal Canadiens	4-0	St. Louis Blues
+1970	Boston Bruins	4-0	St. Louis Blues
+1971	Montreal Canadiens	4-3	Chicago Black Hawks
+1972	Boston Bruins	4-2	New York Rangers
+1973	Montreal Canadiens	4-2	Chicago Black Hawks
+1974	Philadelphia Flyers	4-2	Boston Bruins
+1975	Philadelphia Flyers	4-2	Buffalo Sabres
+1976	Montreal Canadiens	4-0	Philadelphia Flyers
+1977	Montreal Canadiens	4-0	Boston Bruins
+1978	Montreal Canadiens	4-2	Boston Bruins
+1979	Montreal Canadiens	4-1	New York Rangers
+1980	New York Islanders	4-2	Philadelphia Flyers
+1981	New York Islanders	4-1	Minnesota North Stars
+1982	New York Islanders	4-0	Vancouver Canucks
+1983	New York Islanders	4-0	Edmonton Oilers
+1984	Edmonton Oilers	4-1	New York Islanders
+1985	Edmonton Oilers	4-1	Philadelphia Flyers
+1986	Montreal Canadiens	4-1	Calgary Flames
+1987	Edmonton Oilers	4-3	Philadelphia Flyers
+1988	Edmonton Oilers	4-0	Boston Bruins
+1989	Calgary Flames	4-2	Montreal Canadiens
+1990	Edmonton Oilers	4-1	Boston Bruins
+1991	Pittsburgh Penguins	4-2	Minnesota North Stars
+1992	Pittsburgh Penguins	4-0	Chicago Blackhawks
+1993	Montreal Canadiens	4-1	Los Angeles Kings
+1994	New York Rangers	4-3	Vancouver Canucks
+1995	New Jersey Devils	4-0	Detroit Red Wings
+1996	Colorado Avalanche	4-0	Florida Panthers
+1997	Detroit Red Wings	4-0	Philadelphia Flyers
+1998	Detroit Red Wings	4-0	Washington Capitals
+1999	Dallas Stars	4-2	Buffalo Sabres
+2000	New Jersey Devils	4-2	Dallas Stars
+2001	Colorado Avalanche	4-3	New Jersey Devils
+2002	Detroit Red Wings	4-1	Carolina Hurricanes
+2003	New Jersey Devils	4-3	Mighty Ducks of Anaheim
+2004	Tampa Bay Lightning	4-3	Calgary Flames
+2006	Carolina Hurricanes	4-3	Edmonton Oilers
+2007	Anaheim Ducks	4-1	Ottawa Senators
+2008	Detroit Red Wings	4-2	Pittsburgh Penguins
+2009	Pittsburgh Penguins	4-3	Detroit Red Wings
+2010	Chicago Blackhawks	4-2	Philadelphia Flyers
+2011	Boston Bruins	4-3	Vancouver Canucks
+2012	Los Angeles Kings	4-2	New Jersey Devils
+2013	Chicago Blackhawks	4-2	Boston Bruins
+2014	Los Angeles Kings	4-1	New York Rangers
+2015	Chicago Blackhawks	4-2	Tampa Bay Lightning
+2016	Pittsburgh Penguins	4-2	San Jose Sharks
+2017	Pittsburgh Penguins	4-2	Nashville Predators
