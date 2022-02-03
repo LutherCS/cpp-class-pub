@@ -1,7 +1,9 @@
 /* 
- * This is an actual test file
+ * This tells Catch to provide a main()
+ * Only do this in one cpp file
  */
-#include "catch.hpp"
+#define CATCH_CONFIG_MAIN
+#include "../../catch2/catch.hpp"
 #include "../src/exercise0.cpp"
  
 TEST_CASE( "Numbers are added", "[adder]" ) {

@@ -1,7 +1,7 @@
 /*
- * This is a sample header file
- * Header files contain function declarations
- * Source files (cpp) contain function definitions
+ * Assignment: Exercise 0
+ * Author: Roman Yasinovskyy
+ * Date: 2022-02-02
  */
 #ifndef EXERCISE0_H
 #define EXERCISE0_H
