@@ -1,0 +1,33 @@
+# Task1
+   76   91   65   70   55   78   82   87   95   60
+A    2
+B    2
+C    3
+D    2
+F    1
+# Task2
+   76   91   65   70   55   78   82   87   95   60
+   81   96   70   75   60   83   87   92  100   65
+# Task3
+    3    6    7    5    3    5    6    2    9    1
+Sum is 47
+# Task4
+    3    6    7    5    3    5    6    2    9    1
+6 in numbers: true
+11 in numbers: false
+# Task5
+bye is ordered: false
+buy is ordered: true
+# Task6
+    2    7    0    9    3    6    0    6    2    6
+6 in numbers: true
+11 in numbers: false
+# Task7
+   61   68   67   79   82   80   62   73   67   85
+# Task8
+Below 70: 5
+# Task9
+   61   68   67   79   82   80   62   73   67   85
+   85   67   73   62   80   82   79   67   68   61
+# Task10
+    2    3    5    7   11   13   17   19   23   29   31   37   41   43   47   53   59   61   67   71   73   79   83   89   97
