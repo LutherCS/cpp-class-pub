@@ -1,0 +1,21 @@
+-------------
+Hourly employee example
+Angry Aardvark from Accounting earned $450.00 this week after working 40.00 hours
+Angry Aardvark from Acquisitions earned $562.50 this week after working 50.00 hours
+-------------
+Salaried employee example
+Brave Beaver from Bakery earned $1000.00 this week with the annual contract of $52000.00
+Brave Beaver from Section B earned $1192.31 this week with the annual contract of $62000.00
+-------------
+Reading from file
+Salaried Employees
+Alice from Admissions earned $769.23 this week with the annual contract of $40000.00
+Diana from Bakery earned $1057.69 this week with the annual contract of $55000.00
+Eve from Counseling earned $961.54 this week with the annual contract of $50000.00
+Hillary from Dining earned $576.92 this week with the annual contract of $30000.00
+Hourly Employees
+Bob from Admissions earned $600.00 this week after working 40.00 hours
+Charlie from Bakery earned $820.00 this week after working 40.00 hours
+Fred from Counseling earned $2000.00 this week after working 40.00 hours
+George from Dining earned $562.50 this week after working 50.00 hours
+-------------
