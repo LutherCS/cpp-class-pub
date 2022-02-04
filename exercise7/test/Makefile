@@ -1,18 +1,19 @@
 # Parameters to control Makefile operation
-PROJECT=exercise7
-CC=g++
-CFLAGS=-c -Wall -std=c++14
+project_path := $(abspath $(lastword $(MAKEFILE_LIST))/../)
+PROJECT := $(notdir $(patsubst %/,%,$(dir $(project_path))))
+CC=g++-11
+CFLAGS=-c -Wall -std=c++20
 LDFLAGS=
-SOURCES=$(PROJECT)_catch.cpp $(PROJECT)_test.cpp
+SOURCES=$(PROJECT)_test.cpp
 OBJECTS=$(SOURCES:.cpp=.o)
 
 # Default
-all: $(SOURCES) $(PROJECT)_test
+all: $(SOURCES) test
 
 # Make (link) an executable
 # Must have objects
-$(PROJECT)_test: $(OBJECTS)
-	$(CC) $(LDFLAGS) $(OBJECTS) -o $@.out
+test: $(OBJECTS)
+	$(CC) $(LDFLAGS) $(OBJECTS) -o $(PROJECT)_$@.out
 
 # Make (compile) an object
 .cpp.o:

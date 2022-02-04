@@ -1,7 +1,8 @@
 # Parameters to control Makefile operation
-PROJECT=exercise14
-CC=g++
-CFLAGS=-c -Wall -std=c++14
+mkfile_path := $(abspath $(lastword $(MAKEFILE_LIST)))
+PROJECT := $(notdir $(patsubst %/,%,$(dir $(mkfile_path))))
+CC=g++-11
+CFLAGS=-c -Wall -std=c++20
 LDFLAGS=
 SRC_DIR=src
 TEST_DIR=test
