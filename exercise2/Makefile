@@ -1,14 +1,14 @@
 # Parameters to control Makefile operation
 mkfile_path := $(abspath $(lastword $(MAKEFILE_LIST)))
 PROJECT := $(notdir $(patsubst %/,%,$(dir $(mkfile_path))))
-CC=g++-11
-CFLAGS=-c -Wall -std=c++20
-LDFLAGS=
-SRC_DIR=src
-TEST_DIR=test
-BUILD_DIR=build
-SOURCES=$(wildcard $(SRC_DIR)/*.cpp)
-OBJECTS=$(SOURCES:.cpp=.o)
+CC = g++-11
+CFLAGS = -c -Wall -std=c++20
+LDFLAGS =
+SRC_DIR = src
+TEST_DIR = test
+BUILD_DIR = build
+SOURCES := $(wildcard $(SRC_DIR)/*.cpp)
+OBJECTS := $(SOURCES:.cpp=.o)
 
 # Default
 all: main test_exec

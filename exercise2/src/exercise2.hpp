@@ -1,48 +1,101 @@
-/*
- * Assignment: Exercise 2
- * Author: Roman Yasinovskyy
- * Date: 2018-04-04
+/**
+ * @file exercise2.hpp
+ * @author Roman Yasinovskyy
+ * @brief Exercise 2 header
+ * @version 2022.2
+ * @date 2022-02-09
+ *
+ * @copyright Copyright (c) 2022
+ *
  */
 #ifndef EXERCISE2_H
 #define EXERCISE2_H
 
-#include <iostream>
-#include <iomanip>
 #include <fstream>
-#include <string.h>
+#include <iomanip>
+#include <iostream>
 #include <stdlib.h>
+#include <string.h>
 #include <time.h>
 
 using namespace std;
 
-//Take name as a parameter and return "Hello, <name>"
+/**
+ * @brief Take name as a parameter and concatenate it with *Hello*
+ *
+ * @return Hello, name
+ */
 string task1(string);
 
-//Take full name as a parameter and return initials
+/**
+ * @brief Take full name as a parameter and extract initials
+ *
+ * @return Initials of the name
+ */
 string task2(string);
 
-//Takes age as a parameter and return boolean true if less than 21
+/**
+ * @brief Takes age as a parameter and checks if it's less than 21
+ *
+ * @return true if less than 21
+ * @return false if greater than or equal to 21
+ */
 bool task3(int);
 
-//Take number as a parameter and return boolean true if it's odd, false otherwise
+/**
+ * @brief Take number (n) as a parameter checks if it's odd
+ *
+ * @return true if odd
+ * @return false otherwise
+ */
 bool task4(int);
 
-//Take number (n) as a parameter and return sum of all numbers between 1 and n (inclusive)
+/**
+ * @brief Take number (n) as a parameter and compute sum of all positive numbers
+ * up to n
+ *
+ * @return The sum of all positive numbers up to n
+ */
 int task5(int);
 
-//Take number (n) as a parameter and simulate coin flips until there are n heads in a row. Return number of flips. Initialise randomizer as follows: srand(0);
+/**
+ * @brief Take number (n) as a parameter and simulate coin flips until there are
+ * (n) heads in a row. Return number of flips. Seed the randomizer as follows:
+ * srand(0);
+ *
+ * @return Number of flips until there are (n) heads in a row
+ */
 int task6(int);
 
-//Take two numbers (m and n) as parameters and return number of multiples of 10 between m and n (inclusive)
+/**
+ * @brief Take two numbers (m and n) as parameters and return number of
+ * multiples of 10 between m and n (inclusive)
+ *
+ * @return The number of multiples of 10 between m and n (inclusive)
+ */
 int task7(int, int);
 
-//Take a string and two numbers (m and n) as parameters and return a substring between m and n (inclusive)
+//
+/**
+ * @brief Take a string and two numbers (m and n) as parameters and find a
+ * substring between m and n (inclusive)
+ *
+ * @return A substring of (s) between indexes m and n (inclusive)
+ */
 string task8(string, int, int);
 
-//Take 3 numbers (a, b, c) as parameters and return their average
+/**
+ * @brief Take 3 numbers (a, b, c) as parameters and return their average
+ *
+ * @return The mean of 3 numbers
+ */
 float task9(int, int, int);
 
-//Take 3 numbers (a, b, c) as parameters and return the greatest of them
+/**
+ * @brief Take 3 numbers (a, b, c) as parameters and return the greatest of them
+ *
+ * @return The greatest of 3 numbers
+ */
 float task10(float, float, float);
 
 #endif
