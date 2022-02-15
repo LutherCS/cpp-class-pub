@@ -1,26 +1,30 @@
+/**
+ * @file exercise5.cpp
+ * @author 
+ * @brief Exercise 5 implementation
+ * @version 2022.2
+ * @date 
+ *
+ * @copyright Copyright (c) 2022
+ *
+ */
 #include "exercise5.hpp"
 
-/* 
- * Task 7
- * Define function getStockPrice(Company c) that returns current value of stockPrice
- * Define void setStockPrice(Company &c, double newStockPrice) that assigns newStockPrice to stockPrice.
- * */
-//TODO
-
-/* 
- * Task 8
- * Create a function initLaptop(Laptop &item, string _manufacturer, double _price, string _color) that initializes item's fields to the respective parameters.
- * */
-//TODO
-
-/*
- * Task 9
- * Define a function that returns the current value of a University name
- * Define a function that assigns a new value to the University name.
- * Define a function that returns the current value of a University rating
- * Define a function that assigns a new value to the Universwity rating.
- * */
-string University::getName() const {
-    return name;
+double getStockPrice(Company c) { /*TODO*/
 }
-//TODO
+void setStockPrice(Company &c, double newStockPrice) { /*TODO*/
+}
+
+void initLaptop(Laptop &item, string _manufacturer, double _price,
+                string _color) {
+  /*TODO*/
+}
+
+string University::getName() const { /*TODO*/
+}
+void University::setName(string newName) { /*TODO*/
+}
+int University::getRating() const { /*TODO*/
+}
+void University::setRating(int newRating) { /*TODO*/
+}

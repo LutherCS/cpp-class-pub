@@ -1,7 +1,12 @@
-/*
- * Assignment: Exercise 5
- * Author: Roman Yasinovskyy
- * Date: 2018-04-16
+/**
+ * @file exercise5.hpp
+ * @author Roman Yasinovskyy
+ * @brief Exercise 5 header
+ * @version 2022.2
+ * @date 2022-02-11
+ *
+ * @copyright Copyright (c) 2022
+ *
  */
 #ifndef EXERCISE5_H
 #define EXERCISE5_H
@@ -16,110 +21,167 @@
 
 using namespace std;
 
-/*
- * Task 1
- * Create a structure Contact with the following fields: string name, string phone.
- * */
+/**
+ * @brief Task 1: define structure Contact with the following fields: string
+ * name, string phone.
+ *
+ */
 struct Contact {
-    string name;
-    string phone;
+  string name;
+  string phone;
 };
 
-/*
- * Task 2
- * Create a structure Room with the following fields: string building, int number.
- * */
+/**
+ * @brief Task 2: define structure Room with the following fields: string
+ * building, int number.
+ *
+ */
 struct Room {
-    string building;
-    int number;
+  string building;
+  int number;
 };
 
-/*
- * Task 3
- * Create a structure Employee with the following fields: string firstName, string lastName, double salary, bool isFullTime.
- * */
+/**
+ * @brief Task 3: define structure Employee with the following fields: string
+ * firstName, string lastName, double salary, bool isFullTime.
+ *
+ */
 struct Employee {
-    string firstName;
-    string lastName;
-    double salary;
-    bool isFullTime;
+  string firstName;
+  string lastName;
+  double salary;
+  bool isFullTime;
 };
 
-/*
- * Task 4
- * Create a structure Animal with the following fields: double weight, bool isHungry.
- * */
+/**
+ * @brief Task 4: define structure Animal with the following fields: double
+ * weight, bool isHungry.
+ *
+ */
 struct Animal {
-    double weight;
-    bool isHungry;
+  double weight;
+  bool isHungry;
 };
 
-/*
- * Task 5
- * Create a structure Game with the following fields: string title, int rating.
- * */
+/**
+ * @brief Task 5: define structure Game with the following fields: string title,
+ * int rating.
+ *
+ */
 struct Game {
-    string title;
-    int rating;
+  string title;
+  int rating;
 };
 
-/*
- * Task 6
-Create a structure Song with the following fields: string title, string artist.
-*/
+/**
+ * @brief Task 6: define structure Song with the following fields: string title,
+ * string artist.
+ *
+ */
 struct Song {
-    string title;
-    string artist;
+  string title;
+  string artist;
 };
 
-/*
- * Task 7
- * Create a structure Company with the following fields: string name, double stockPrice.
- * */
+/**
+ * @brief Task 7: define structure Company with the following fields: string
+ * name, double stockPrice.
+ *
+ */
 struct Company {
-    string name;
-    double stockPrice;
+  string name;
+  double stockPrice;
 };
 
+/**
+ * @brief Get the Company Stock Price
+ *
+ * @param Company
+ * @return current value of the stock price
+ */
 double getStockPrice(Company);
-void setStockPrice(Company&, double);
 
-/*
- * Task 8
- * Create a structure Laptop with the following fields: manufacturer, price, and color.
- * */
+/**
+ * @brief Set the Company Stock Price
+ *
+ * @param Company
+ * @param new stock price
+ *
+ */
+void setStockPrice(Company &, double);
+
+/**
+ * @brief Task 8: define structure Laptop with the following fields:
+ * manufacturer, price, and color.
+ *
+ */
 struct Laptop {
-    string manufacturer;
-    double price;
-    string color;
+  string manufacturer;
+  double price;
+  string color;
 };
 
-void initLaptop(Laptop&, string, double, string);
+/**
+ * @brief Initialize Laptop properties
+ *
+ * @param Laptop
+ * @param manufacturer
+ * @param price
+ * @param color
+ *
+ */
+void initLaptop(Laptop &, string, double, string);
 
-/*
- * Task 9
- * Create a structure University with the following private fields: string name, int rating.
- * The structure should have public methods getName, setName, getRating, and setRating.
- * */
+/**
+ * @brief Task 9: define structure University with the following private fields:
+ * string name, int rating. The structure should have public methods getName,
+ * setName, getRating, and setRating.
+ *
+ */
 struct University {
-    private:
-        string name;
-        int rating;
-    public:
-        string getName() const;
-        void setName(string);
-        int getRating() const;
-        void setRating(int);
+private:
+  string name;
+  int rating;
+
+public:
+  /**
+   * @brief Get the Name value
+   *
+   * @return the current value of a University name
+   */
+  string getName() const;
+
+  /**
+   * @brief Set the Name value
+   *
+   * @param new name
+   */
+  void setName(string);
+
+  /**
+   * @brief Get the Rating value
+   *
+   * @return the current value of a University rating
+   */
+  int getRating() const;
+
+  /**
+   * @brief Set the Rating value
+   *
+   * @param new rating
+   */
+  void setRating(int);
 };
 
-/*
- * Task 10
- * Create a structure Student with the fields name, major, and gpa.
- * */
+/**
+ * @brief Task 10: define structure Student with the fields name, major, and
+ * gpa.
+ *
+ */
 struct Student {
-    string name;
-    string major;
-    double gpa;
+  string name;
+  string major;
+  double gpa;
 };
 
 #endif
