@@ -1,9 +1,20 @@
-/* 
- * This is an actual test file
+/**
+ * @file exercise6_test.cpp
+ * @author Roman Yasinovskyy
+ * @brief Exercise 6 test
+ * @version 2022.2
+ * @date 2022-02-17
+ *
+ * @copyright Copyright (c) 2022
+ *
  */
-#include "catch.hpp"
-#include "../src/exercise6.cpp"
+#ifndef CATCH_CONFIG_MAIN
+#define CATCH_CONFIG_MAIN
+#include "../../catch2/catch.hpp"
+#endif
 
-TEST_CASE( "Nothing to test", "[null]" ) {
-    // Tests are optional for this assignment
+#include "../src/exercise6.hpp"
+
+TEST_CASE("Stub", "[stub]") {
+  // Stub
 }
