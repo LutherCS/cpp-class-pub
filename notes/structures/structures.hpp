@@ -6,6 +6,9 @@ struct Book {
     string title;
     string author;
     int pages;
+
+    Book();
+    Book(string, string, int, double);
     double getPrice();
     void setPrice(double newPrice);
 
