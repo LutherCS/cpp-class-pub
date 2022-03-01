@@ -1,19 +1,24 @@
-/*
- * Assignment: Exercise 9
- * Author: Roman Yasinovskyy
- * Date: 2018-04-30
+/**
+ * @file exercise9.hpp
+ * @author Roman Yasinovskyy
+ * @brief Exercise 9 header
+ * @version 2022.2
+ * @date 2022-02-28
+ *
+ * @copyright Copyright (c) 2022
+ *
  */
 #ifndef EXERCISE9_H
 #define EXERCISE9_H
 
 #include <algorithm>
 #include <cmath>
-#include <cstring>
 #include <cstdlib>
+#include <cstring>
 #include <ctime>
 #include <fstream>
-#include <iostream>
 #include <iomanip>
+#include <iostream>
 #include <vector>
 
 using namespace std;
