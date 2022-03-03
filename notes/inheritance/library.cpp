@@ -35,16 +35,25 @@ ostream &operator<<(ostream &os, const DataCable &dt) {
 }
 
 int main() {
-  vector<LibraryItem> library;
+  vector<LibraryItem*> library;
+  // LibraryItem *li = new LibraryItem("1", "2022-03-08");
   Book *aBook = new Book("1", "2022-03-08", "Learn C++", 100);
   cout << *aBook << endl;
-  library.push_back(*aBook);
+  library.push_back(aBook);
+
   DataCable *aCable = new DataCable("2", "2022-04-01", 200);
-  library.push_back(*aCable);
+  library.push_back(aCable);
+
+  PowerCable *pCable = new PowerCable("3", "2022-04-01", 5);
+  library.push_back(pCable);
+
 
   cout << "My library" << endl;
-  for (LibraryItem item : library) {
-    item.print();
+  for (auto item : library) {
+    item->print();
+    // (*item).print();
+    cout << item->getDueDate() << endl;
+    // cout << item << endl;
   }
 
   return 0;

@@ -12,9 +12,7 @@ public:
   string getDueDate() const { return dueDate; }
 
   friend ostream &operator<<(ostream &, const LibraryItem &li);
-  inline void print() const {
-    cout << "Item #" << barCode << " is due on " << dueDate << endl;
-  }
+  virtual inline void print() const = 0;
 };
 
 class Book : public LibraryItem {
@@ -24,6 +22,9 @@ private:
 
 public:
   Book(string barCode, string dueDate, string title, int pages);
+  inline void print() const {
+    cout << "Book title: " << title << endl;
+  }
 };
 
 class Cable : public LibraryItem {
@@ -41,6 +42,9 @@ private:
 
 public:
   PowerCable(string barCode, string dueDate, int wattage);
+  inline void print() const {
+    cout << "Power cable supports " << wattage << "W" << endl;
+  }
 };
 
 class DataCable : public Cable {
