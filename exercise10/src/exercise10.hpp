@@ -1,18 +1,23 @@
-/*
- * Assignment: Exercise 10
- * Author: Roman Yasinovskyy
- * Date: 2018-05-02
+/**
+ * @file exercise10.hpp
+ * @author Roman Yasinovskyy
+ * @brief Exercise 10 header
+ * @version 2022.3
+ * @date 2022-03-02
+ *
+ * @copyright Copyright (c) 2022
+ *
  */
 #ifndef EXERCISE10_H
 #define EXERCISE10_H
 
 #include <cmath>
-#include <cstring>
 #include <cstdlib>
+#include <cstring>
 #include <ctime>
 #include <fstream>
-#include <iostream>
 #include <iomanip>
+#include <iostream>
 #include <vector>
 
 using namespace std;

@@ -1,4 +1,14 @@
+/**
+ * @file Canine.cpp
+ * @author your name (you@domain.com)
+ * @brief
+ * @version 0.1
+ * @date 2022-03-03
+ *
+ * @copyright Copyright (c) 2022
+ *
+ */
 #include "Canine.hpp"
 
-Canine::Canine(string name, int age, string habitat, int carnivore):
-    Mammal(name, age, habitat, carnivore) { };
+Canine::Canine(string name, int age, string habitat, int carnivore)
+    : Mammal(name, age, habitat, carnivore){};
