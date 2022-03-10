@@ -89,3 +89,7 @@ Year	Winner	Result	Runner-up
 2015	Chicago Blackhawks	4-2	Tampa Bay Lightning
 2016	Pittsburgh Penguins	4-2	San Jose Sharks
 2017	Pittsburgh Penguins	4-2	Nashville Predators
+2018	Washington Capitals	4-1	Vegas Golden Knights
+2019	St. Louis Blues	4-3	Boston Bruins
+2020	Tampa Bay Lightning	4-2	Dallas Stars
+2021	Tampa Bay Lightning	4-1	Montreal Canadiens

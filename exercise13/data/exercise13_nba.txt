@@ -67,3 +67,7 @@ Year	Winner	Result	Runner-up
 2015	Golden State Warriors	4-2	Cleveland Cavaliers
 2016	Cleveland Cavaliers	4-3	Golden State Warriors
 2017	Golden State Warriors	4-1	Cleveland Cavaliers
+2018	Golden State Warriors	4-0	Cleveland Cavaliers
+2019	Toronto Raptors	4-2	Golden State Warriors
+2020	Los Angeles Lakers	4-2	Miami Heat
+2021	Milwaukee Bucks	2-4	Phoenix Suns

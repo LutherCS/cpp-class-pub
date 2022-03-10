@@ -21,3 +21,7 @@ Year	Winner	Result	Runner-up
 2015	Portland Timbers	2-1	Columbus Crew
 2016	Seattle Sounders FC	0-0	Toronto FC
 2017	Toronto FC	2-0	Seattle Sounders FC
+2018	Atlanta United FC	2-0	Portland Timbers
+2019	Seattle Sounders FC	3-1	Toronto FC
+2020	Columbus Crew SC	3-0	Seattle Sounders FC
+2021	New York City FC	1-1 Portland Timbers

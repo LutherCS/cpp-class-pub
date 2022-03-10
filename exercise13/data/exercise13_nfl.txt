@@ -51,3 +51,8 @@ Year	Winner	Result	Runner-up
 2016	Denver Broncos	24-10	Carolina Panthers
 2017	New England Patriots	34-28	Atlanta Falcons
 2018	Philadelphia Eagles	41-33	New England Patriots
+2019	New England Patriots	13-3 	Los Angeles Rams
+2020	Kansas City Chiefs	31-20 	San Francisco 49ers
+2021	Tampa Bay Buccaneers	31-9	Kansas City Chiefs
+2022	Los Angeles Rams	23-20	Cincinnati Bengals
+

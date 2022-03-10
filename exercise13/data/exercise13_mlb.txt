@@ -112,3 +112,7 @@ Year	Winner	Result	Runner-up
 2015	Kansas City Royals	4-1	New York Mets
 2016	Chicago Cubs	4-3	Cleveland Indians
 2017	Houston Astros	4-3	Los Angeles Dodgers
+2018	Boston Red Sox	4-1	Los Angeles Dodgers
+2019	Washington Nationals	4-3	Houston Astros
+2020	Los Angeles Dodgers	4-2	Tampa Bay Rays
+2021	Atlanta Braves	4-2	Houston Astros
