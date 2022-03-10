@@ -1,3 +1,13 @@
+/**
+ * @file exercise12.cpp
+ * @author 
+ * @brief Exercise 12 implementation
+ * @version 2022.3
+ * @date 
+ *
+ * @copyright Copyright (c) 2022
+ *
+ */
 #include "exercise12.hpp"
 
 // Define a function that uses an array.

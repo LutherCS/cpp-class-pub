@@ -1,6 +1,19 @@
-#include "catch.hpp"
-#include "../src/exercise12.cpp"
-/* Test all functions here */
+/**
+ * @file exercise12_test.hpp
+ * @author
+ * @brief Exercise 12 test
+ * @version 2022.3
+ * @date
+ *
+ * @copyright Copyright (c) 2022
+ *
+ */
+#ifndef CATCH_CONFIG_MAIN
+#define CATCH_CONFIG_MAIN
+#include "../../catch2/catch.hpp"
+#endif
+
+#include "../src/exercise12.hpp"
 
 
 TEST_CASE ( "Test Array", "[test1]" ) {

@@ -1,7 +1,12 @@
-/*
- * Assignment: Exercise 12
- * Author: Roman Yasinovskyy
- * Date: 2018-05-10
+/**
+ * @file exercise12.hpp
+ * @author
+ * @brief Exercise 12 header
+ * @version 2022.3
+ * @date
+ *
+ * @copyright Copyright (c) 2022
+ *
  */
 #ifndef EXERCISE12_H
 #define EXERCISE12_H
